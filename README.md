@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wildan
+- 👋 Hi!
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Game Development
 
 <!---
